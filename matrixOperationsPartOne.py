@@ -13,3 +13,6 @@ print(np.add(m1,m2))
 print("Subrtacting two matrices: ")
 print(np.subtract(m1,m2))
 
+# Printing both matrices
+print(m1)
+print(m2)
