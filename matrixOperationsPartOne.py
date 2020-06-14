@@ -5,6 +5,10 @@ import numpy as np
 m1 = np.array([[1,2],[4,5]])
 m2 = np.array([[7,8],[9,10]])
 
+# Square root of m1
+print ("square root is: ")
+print (np.sqrt(m1))
+
 # Adding two matrices
 print("Addition of two matrices: ")
 print(np.add(m1,m2))
